@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cuser/Desktop/euchre/src/Card.cpp
+
+/home/cuser/Desktop/euchre/src/main.cpp
+iostream
+-
+vector
+-
+Card.cpp
+/home/cuser/Desktop/euchre/src/Card.cpp
+
