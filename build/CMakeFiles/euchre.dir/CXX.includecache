@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/cuser/Desktop/euchre/src/Card.cpp
+/home/cuser/Desktop/Euchre/src/Card.cpp
 
-/home/cuser/Desktop/euchre/src/main.cpp
+/home/cuser/Desktop/Euchre/src/main.cpp
 iostream
 -
 vector
 -
 Card.cpp
-/home/cuser/Desktop/euchre/src/Card.cpp
+/home/cuser/Desktop/Euchre/src/Card.cpp
 

@@ -1,1 +1,1 @@
-/home/cuser/Desktop/euchre/build/CMakeFiles/euchre.dir
+/home/cuser/Desktop/Euchre/build/CMakeFiles/euchre.dir

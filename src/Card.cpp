@@ -1,6 +1,6 @@
 class Card {
     public:
-    int value,suit;
+    int value,suit; //0 - Diamonds, 1 clubs, 2 hearts, 3 spades
 
     Card() {
         value = 0;

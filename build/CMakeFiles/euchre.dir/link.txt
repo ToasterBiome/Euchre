@@ -1,1 +1,1 @@
-/usr/bin/c++       CMakeFiles/euchre.dir/src/main.cpp.o  -o euchre -rdynamic 
+/usr/bin/c++    -std=c++11    CMakeFiles/euchre.dir/src/main.cpp.o  -o euchre -rdynamic 

@@ -38,10 +38,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = /usr/bin/ccmake
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cuser/Desktop/euchre
+CMAKE_SOURCE_DIR = /home/cuser/Desktop/Euchre
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cuser/Desktop/euchre/build
+CMAKE_BINARY_DIR = /home/cuser/Desktop/Euchre/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/euchre.dir/depend.make
@@ -54,17 +54,17 @@ include CMakeFiles/euchre.dir/flags.make
 
 CMakeFiles/euchre.dir/src/main.cpp.o: CMakeFiles/euchre.dir/flags.make
 CMakeFiles/euchre.dir/src/main.cpp.o: ../src/main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/cuser/Desktop/euchre/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/cuser/Desktop/Euchre/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/euchre.dir/src/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/euchre.dir/src/main.cpp.o -c /home/cuser/Desktop/euchre/src/main.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/euchre.dir/src/main.cpp.o -c /home/cuser/Desktop/Euchre/src/main.cpp
 
 CMakeFiles/euchre.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/euchre.dir/src/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/cuser/Desktop/euchre/src/main.cpp > CMakeFiles/euchre.dir/src/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/cuser/Desktop/Euchre/src/main.cpp > CMakeFiles/euchre.dir/src/main.cpp.i
 
 CMakeFiles/euchre.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/euchre.dir/src/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/cuser/Desktop/euchre/src/main.cpp -o CMakeFiles/euchre.dir/src/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/cuser/Desktop/Euchre/src/main.cpp -o CMakeFiles/euchre.dir/src/main.cpp.s
 
 CMakeFiles/euchre.dir/src/main.cpp.o.requires:
 .PHONY : CMakeFiles/euchre.dir/src/main.cpp.o.requires
@@ -100,6 +100,6 @@ CMakeFiles/euchre.dir/clean:
 .PHONY : CMakeFiles/euchre.dir/clean
 
 CMakeFiles/euchre.dir/depend:
-	cd /home/cuser/Desktop/euchre/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cuser/Desktop/euchre /home/cuser/Desktop/euchre /home/cuser/Desktop/euchre/build /home/cuser/Desktop/euchre/build /home/cuser/Desktop/euchre/build/CMakeFiles/euchre.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/cuser/Desktop/Euchre/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cuser/Desktop/Euchre /home/cuser/Desktop/Euchre /home/cuser/Desktop/Euchre/build /home/cuser/Desktop/Euchre/build /home/cuser/Desktop/Euchre/build/CMakeFiles/euchre.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/euchre.dir/depend
 
